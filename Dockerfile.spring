@@ -1,0 +1,8 @@
+FROM rashpile/springimage:latest
+
+ADD . /app
+ARG APP_NAME
+
+ENTRYPOINT ["/usr/bin/java"]
+CMD ["-jar", "/app/${APP_NAME}.jar"]
+EXPOSE 8080
