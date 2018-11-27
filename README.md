@@ -1,1 +1,1 @@
-# springimage
+# Spring Base Image [![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/rashpile/springimage/) [![Build Status](https://travis-ci.com/rashpile/springimage.svg?branch=master)](https://travis-ci.com/rashpile/springimage)
